@@ -6,6 +6,12 @@ products = [
         "code": "HP50-3000"
     },
     {
+        "name": "Hot Pepper",
+        "weight": "60ml",
+        "price": 3700,
+        "code": "HP60ML-3700"
+    },
+    {
         "name": "Black Pepper",
         "weight": "50gm",
         "price": 3500,
@@ -18,6 +24,18 @@ products = [
         "code": "CL50-4000"
     },
     {
+        "name": "Cloves",
+        "weight": "100gm",
+        "price": 6500,
+        "code": "CL100-6500"
+    },
+    {
+        "name": "Cloves Whole",
+        "weight": "200gm",
+        "price": 15000,
+        "code": "CLW200-15000"
+    },
+    {
         "name": "Cinnamon",
         "weight": "50gm",
         "price": 3000,
@@ -28,6 +46,12 @@ products = [
         "weight": "50gm",
         "price": 3000,
         "code": "TM50-3000"
+    },
+    {
+        "name": "Pilau Masala",
+        "weight": "50gm",
+        "price": 3000,
+        "code": "PM50-3000"
     },
     {
         "name": "Ginger",
